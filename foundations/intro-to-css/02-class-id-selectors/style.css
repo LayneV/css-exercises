@@ -1,0 +1,21 @@
+.p-text,
+.p-text-different
+{
+    background-color: rgb(252, 176, 201);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.p-text-different{
+    font-size: 24px;
+}
+
+#number-4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
